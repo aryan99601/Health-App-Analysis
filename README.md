@@ -7,4 +7,4 @@ Basic Data Analytics have been done for this dataset.
 
 # Analysis
 
- 1. #Ploting Daily Step Counts:
+# 1. Ploting Daily Step Counts:
