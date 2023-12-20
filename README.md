@@ -15,6 +15,7 @@ Basic Data Analytics have been done for this dataset.
 
 
 ## 3. Visualizing the frequency distribution of 'Component' values using Matplotlib.
+![download (2)](https://github.com/aryan99601/Health-App-Analysis/assets/121533839/01c188b4-4c38-4ec1-9c1c-13213910b73f)
 
 
 ## 4. Calculates and plots the count of unique 'EventId' values for each 'Component'.
