@@ -11,6 +11,7 @@ Basic Data Analytics have been done for this dataset.
 ![download](https://github.com/aryan99601/Health-App-Analysis/assets/121533839/2c42389b-cb94-4dbe-aff0-da5a202d984f)
 
 ## 2. The frequency distribution of different 'Content' values using Matplotlib.
+![download (1)](https://github.com/aryan99601/Health-App-Analysis/assets/121533839/107a977c-9995-4233-b18d-f55da7308c6b)
 
 
 ## 3. Visualizing the frequency distribution of 'Component' values using Matplotlib.
