@@ -5,5 +5,6 @@ HealthApp is a mobile application for Andriod devices. The application logs from
 git clone https://github.com/logpai/loghub/blob/master/HealthApp
 Basic Data Analytics have been done for this dataset.
 
-# Inferences
+# Analysis
 
+ 1. #Ploting Daily Step Counts:
